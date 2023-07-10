@@ -5,5 +5,5 @@
 图标包基于非常优秀的开源图标包[Fluent-UI-System-icon](https://github.com/microsoft/fluentui-system-icons) ，感谢原作者的精心设计。
 
 ### 更新日志
-
+1.1 新图标
 1.0 新图标包
